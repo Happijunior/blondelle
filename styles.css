@@ -1,0 +1,48 @@
+/* GENERAL  */
+
+*
+{
+     margin: 0;
+     padding: 0;
+}
+boby
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+h1
+{
+    font-size: 45px;
+    color: blue;
+}
+
+/* HEARDER */
+header
+{ 
+   height: 120px; 
+}
+
+  header h1  
+{
+    float: left;
+    marging-top: 32px;
+}
+
+header nav
+{
+    float:right;
+}
+/*Main IMAGE */
+#main-image
+{
+    height: 500px;
+    background: url(image/image\ salon3.jpg) center;
+
+
+
+
+
+
+
+
+}
